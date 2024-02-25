@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gerar Quispe
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gfquispe)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfquispe/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fryzito&hide=stars&show_icons=true&rank_icon=github&show=prs_merged,prs_merged_percentage&theme=react&include_all_commits=true)
 
