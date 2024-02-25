@@ -3,7 +3,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fryzito&hide=stars&show_icons=true&rank_icon=github&show=prs_merged,prs_merged_percentage&theme=react&include_all_commits=true)-->
 <div align="center">
   <a href="https://github.com/fryzito">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=fryzito&custom_title=Stats&hide=stars&show_icons=true&rank_icon=github&show=prs_merged,prs_merged_percentage&theme=react&include_all_commits=true"/> <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fryzito&layout=compact&theme=react&langs_count=20"/>
+  <img height="250em"  src="https://github-readme-stats.vercel.app/api?username=fryzito&custom_title=Stats&hide=stars&show_icons=true&rank_icon=github&show=prs_merged,prs_merged_percentage&theme=react&include_all_commits=true"/> <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fryzito&layout=compact&theme=react&langs_count=20"/>
 
 ### Technologies
 <div style="display: inline_block;">
