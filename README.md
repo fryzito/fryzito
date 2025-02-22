@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td>
-      <img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" width="320px"/>
+      <img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" style="width: 100%; max-width: 350px;"/>
     </td>
   </tr>
 </table>
