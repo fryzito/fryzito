@@ -54,8 +54,8 @@
   
 </div><br/>
 <div style="display: inline_block;">
-  <img align="center" alt="TypeScript" width="70px" src="https://e7.pngegg.com/pngimages/616/528/png-clipart-angularjs-typescript-javascript-vue-js-others-blue-angle.png"/>
-  <img align="center" alt="Material-UI" width="70px" src="https://w7.pngwing.com/pngs/625/531/png-transparent-material-ui-hd-logo.png"/>
+  <img align="center" alt="TypeScript" width="70px" src="./img/file-type-typescript-official.svg"/>
+  <img align="center" alt="Material-UI" width="70px" src="./img/material-ui.svg"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
