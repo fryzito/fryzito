@@ -40,7 +40,7 @@
 ### Technologies
 <div style="display: inline_block;">
   <img title="amazonwebservices-original" alt="amazon-webservices" width="110px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/aws-2.png" /></code>
-  <img title="Azure-machine-learning" alt="Azure-ml" width="100px" src="https://logowik.com/content/uploads/images/azure-machine-learning-service1395.jpg" /></code>
+  <img title="Azure-machine-learning" alt="Azure-ml" width="50px" src="./img/azure-machine-learning-22205.png" /></code>
   <img title="kaggle" alt="kaggle" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
   <img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
   <img title="mysql-original" alt="mysql-original" width="35px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" /></code>
