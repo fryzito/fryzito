@@ -1,16 +1,16 @@
 ### Hi 👋 I'm Gerar Quispe
 
 <p style="max-width: 400px;">
-  I'm a passionate, self-taught Data Scientist from Peru with a dynamic and adaptable mindset. I seamlessly switch roles, whether as a Data Scientist 📈, Data Engineer 🛠️, or Data Analyst 📊, ensuring every project gets exactly what it needs to succeed.
+  I'm a passionate, self-taught Data Scientist from Peru with a dynamic and adaptable mindset. I seamlessly switch roles, whether as a Data Scientist 📈, Data Engineer 🛠️, Data Analyst 📊 or Machine Learning Engineer, ensuring every project gets exactly what it needs to succeed.
 </p>
 
 <img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" style="width: 15vw;"/>
 
 <h4>📖 More About Me:</h4>
 <ul>
+  <li>🎓 &nbsp; Earned an MBA in Artificial Intelligence and Big Data in 2024 from ICMC - São Paulo</li>
   <li>🎓 &nbsp; Graduated in Computer Science from Universidad Católica San Pablo - Arequipa</li>
-  <li>🎓 &nbsp; Earned an MBA in Artificial Intelligence and Big Data in 2024</li>
-  <li>🔭 &nbsp; I worked on a Lending Risk model.</li>
+  <li>🔭 &nbsp; I worked on a Lending Risk modeling.</li>
   <li>🌱 &nbsp; I deployed machine learning models using Azure services.</li>
   <li>💬 &nbsp; Ask me anything tech-related, I'm happy to help.</li>
   <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/gfquispe/">LinkedIn</a></li>
@@ -39,25 +39,29 @@
 
 ### Technologies
 <div style="display: inline_block;">
+  <img title="amazonwebservices-original" alt="amazon-webservices" width="110px" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/aws-2.png" /></code>
+  <img title="Azure-machine-learning" alt="Azure-ml" width="100px" src="https://logowik.com/content/uploads/images/azure-machine-learning-service1395.jpg" /></code>
+  <img title="kaggle" alt="kaggle" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
   <img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
   <img title="mysql-original" alt="mysql-original" width="35px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" /></code>
-  <img title="amazonwebservices-original" alt="amazonwebservices-original" width="35px" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" /></code>
-  <img title="visualstudio-plain" alt="visualstudio-plain" width="35px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" /></code>
   <img title="oracle-original" alt="oracle-original" width="35px" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColorg" /></code>
   <img title="java-original" alt="java-original" width="35px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" /></code>
-  <img title="googlecloud-original" alt="googlecloud-original" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /></code>
-  <img title="r-original" alt="r-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></code>                    
+  
+  
   <img title="jupyter-original" alt="jupyter-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
-  <img title="kaggle" alt="kaggle" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />  
-  <img title="anaconda" alt="anaconda" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /> 
+  <img title="anaconda" alt="anaconda" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+  <img title="visualstudio-plain" alt="visualstudio-plain" width="35px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" /></code>
+  
 </div><br/>
 <div style="display: inline_block;">
+  <img align="center" alt="TypeScript" width="70px" src="https://e7.pngegg.com/pngimages/616/528/png-clipart-angularjs-typescript-javascript-vue-js-others-blue-angle.png"/>
+  <img align="center" alt="Material-UI" width="70px" src="https://w7.pngwing.com/pngs/625/531/png-transparent-material-ui-hd-logo.png"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=c++&logoColor=white"/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
 
@@ -68,4 +72,4 @@
   
 <!--[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfquispe/)-->
 
-Msc. Computer Science with experience in Data Science.
+Msc. Computer Science with experience in Data Science and Machine Learning.
