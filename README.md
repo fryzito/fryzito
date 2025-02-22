@@ -1,24 +1,21 @@
 ### Hi 👋 I'm Gerar Quispe
-<table>
-  <tr>
-    <td>
-      I'm a self-taught passionate Data Scientist from Peru and a versatilist and easily adapt to different hats, complementing Data Scientist 📈 with Data Engineer 🛠️ or Data Analyst 📊 depending on what the project requires.
-      <h3>📖 More About Me:</h3>
-      <ul>
-        <li>🎓 &nbsp; Graduated with Honours on Economics at the Saint August University of Arequipa on December 2021</li>
-        <li>🎓 &nbsp; Graduated as Data Scientist on October 2023</li>
-        <li>🔭 &nbsp; I’m currently working as Pricing Data Analyst.</li>
-        <li>🌱 &nbsp; I’m currently learning Airflow.</li>
-        <li>💬 &nbsp; Ask me about anything tech related, I am happy to help.</li>
-        <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/gfquispe/">LinkedIn</a></li>
-        <li>📚 &nbsp; When I am free, I read books, learn languages and swimming.</li>
-      </ul>
-    </td>
-    <td>
-      <img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" style="width: 100%; max-width: 350px;"/>
-    </td>
-  </tr>
-</table>
+
+<p style="max-width: 400px;">
+  I'm a passionate, self-taught Data Scientist from Peru with a dynamic and adaptable mindset. I seamlessly switch roles, whether as a Data Scientist 📈, Data Engineer 🛠️, or Data Analyst 📊, ensuring every project gets exactly what it needs to succeed.
+</p>
+
+<img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" style="width: 50%"/>
+
+<h4>📖 More About Me:</h4>
+<ul>
+  <li>🎓 &nbsp; Graduated in Computer Science from Universidad Católica San Pablo - Arequipa</li>
+  <li>🎓 &nbsp; Earned an MBA in Artificial Intelligence and Big Data in 2024</li>
+  <li>🔭 &nbsp; I worked on a Lending Risk model.</li>
+  <li>🌱 &nbsp; I deployed machine learning models using Azure services.</li>
+  <li>💬 &nbsp; Ask me anything tech-related, I'm happy to help.</li>
+  <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/gfquispe/">LinkedIn</a></li>
+  <li>📚 &nbsp; In my free time, I solve competitive programming problems, take online courses, and play volleyball.</li>
+</ul>
 
 <a href='https://www.kaggle.com/fryzito'>
   <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='30px' target="_blank" />
@@ -48,7 +45,7 @@
   <img title="visualstudio-plain" alt="visualstudio-plain" width="35px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" /></code>
   <img title="oracle-original" alt="oracle-original" width="35px" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColorg" /></code>
   <img title="java-original" alt="java-original" width="35px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" /></code>
-  <img title="googlecloud-original" alt="googlecloud-original" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /></code>
+  <img title="googlecloud-original" alt="googlecloud-original" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /></code>
   <img title="r-original" alt="r-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></code>                    
   <img title="jupyter-original" alt="jupyter-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
   <img title="kaggle" alt="kaggle" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />  
