@@ -1,4 +1,39 @@
 ### Hi 👋 I'm Gerar Quispe
+<table>
+  <tr>
+    <td>
+      I'm a self-taught passionate Data Scientist from Peru and a versatilist and easily adapt to different hats, complementing Data Scientist 📈 with Data Engineer 🛠️ or Data Analyst 📊 depending on what the project requires.
+      <h3>📖 More About Me:</h3>
+      <ul>
+        <li>🎓 &nbsp; Graduated with Honours on Economics at the Saint August University of Arequipa on December 2021</li>
+        <li>🎓 &nbsp; Graduated as Data Scientist on October 2023</li>
+        <li>🔭 &nbsp; I’m currently working as Pricing Data Analyst.</li>
+        <li>🌱 &nbsp; I’m currently learning Airflow.</li>
+        <li>💬 &nbsp; Ask me about anything tech related, I am happy to help.</li>
+        <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/gfquispe/">LinkedIn</a></li>
+        <li>📚 &nbsp; When I am free, I read books, learn languages and swimming.</li>
+      </ul>
+    </td>
+    <td>
+      <img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" width="320px"/>
+    </td>
+  </tr>
+</table>
+
+<a href='https://www.kaggle.com/fryzito'>
+  <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='30px' target="_blank" />
+</a>
+&nbsp;
+<a href = "mailto:gerarfrancisq@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+&nbsp;
+<a href = "https://www.linkedin.com/in/gfquispe/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+
+<br/>
+<br/>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fryzito&hide=stars&show_icons=true&rank_icon=github&show=prs_merged,prs_merged_percentage&theme=react&include_all_commits=true)-->
 <div align="center">
@@ -33,9 +68,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryzito&layout=compact&theme=react&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fryzito)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div>
-  <a href = "mailto:gerarfrancisq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/gfquispe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <!--[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfquispe/)-->
 
