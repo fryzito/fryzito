@@ -9,9 +9,10 @@
 <h4>📖 More About Me:</h4>
 <ul>
   <li>🎓 &nbsp; Earned an MBA in Artificial Intelligence and Big Data in 2024 from ICMC - São Paulo</li>
-  <li>🎓 &nbsp; Graduated in Computer Science from Universidad Católica San Pablo - Arequipa</li>
+  <li>🤖 &nbsp; Graduated in Computer Science from Universidad Católica San Pablo - Arequipa</li>
   <li>🔭 &nbsp; I worked on a Lending Risk modeling.</li>
   <li>🌱 &nbsp; I deployed machine learning models using Azure services.</li>
+  <li>👁️‍🗨️ &nbsp; I worked on computer vision 🖼️ projects training deep learning models.</li>
   <li>💬 &nbsp; Ask me anything tech-related, I'm happy to help.</li>
   <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/gfquispe/">LinkedIn</a></li>
   <li>📚 &nbsp; In my free time, I solve competitive programming problems, take online courses, and play volleyball.</li>
