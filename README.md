@@ -1,8 +1,9 @@
 ### Hi 👋 I'm Gerar Quispe
-
 <p style="max-width: 400px;">
   I'm a passionate, self-taught Data Scientist from Peru with a dynamic and adaptable mindset. I seamlessly switch roles, whether as a Data Scientist 📈, Data Engineer 🛠️, Data Analyst 📊 or Machine Learning Engineer, ensuring every project gets exactly what it needs to succeed.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=fryzito&style=for-the-badge&color=00ADB5" alt=""/>
 
 <img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" style="width: 15vw;"/>
 
