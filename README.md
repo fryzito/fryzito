@@ -3,7 +3,6 @@
   I'm a passionate, self-taught Data Scientist from Peru with a dynamic and adaptable mindset. I seamlessly switch roles, whether as a Data Scientist 📈, Data Engineer 🛠️, Data Analyst 📊 or Machine Learning Engineer, ensuring every project gets exactly what it needs to succeed.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=fryzito&style=for-the-badge&color=00ADB5" alt=""/>
 
 <img align="right" alt="GIF" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" style="width: 15vw;"/>
 
@@ -18,18 +17,26 @@
   <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/gfquispe/">LinkedIn</a></li>
   <li>📚 &nbsp; In my free time, I solve competitive programming problems, take online courses, and play volleyball.</li>
 </ul>
-
-<a href='https://www.kaggle.com/fryzito'>
-  <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='30px' target="_blank" />
-</a>
-&nbsp;
-<a href = "mailto:gerarfrancisq@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-&nbsp;
-<a href = "https://www.linkedin.com/in/gfquispe/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+<div>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=fryzito&style=for-the-badge&color=00ADB5" alt="Profile views" target="_blank" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href='https://www.kaggle.com/fryzito'>
+    <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='30px' target="_blank" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href = "mailto:gerarfrancisq@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href = "https://www.linkedin.com/in/gfquispe/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
 
 <br/>
 <br/>
